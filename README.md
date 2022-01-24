@@ -19,19 +19,13 @@ These were the following analysis performed on the dataset :
 
 Medical Reimbursements per State in United States of America
 
----
-
 ## Description
 
 The dataset tells about the total medical enrollees throughout the different states of the United States of America, and the reimbursements provided to these enrollees depending on  different contributing factors like age, sex and race in the year 2014.
 
----
-
 ## Category
 
 There are a total 53 states mentioned in the dataset and medical enrollees for each of these states have been included. The data indicates 45,051 being the minimum number of medical enrollees in the District of Columbia  and 21,48,329 being the maximum number of medical enrollees in California State.
-
----
 
 ## Keywords
 
@@ -46,8 +40,6 @@ There are a total of 7 columns present in the dataset after the preprocessing.
 7. Durable
 
 Each of which indicates the reimbursements in the given medical sector.
-
----
 
 ## Contact Info
 
