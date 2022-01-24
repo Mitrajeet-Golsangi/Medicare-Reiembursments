@@ -1,4 +1,5 @@
 setwd("D:/VIT Information/Second Year/1st Semester/Data Science/tutorial/HA/")
+
 # --------------------------- Reading the data frame -------------------------- #
 
 df <- read.csv("data/state.csv")

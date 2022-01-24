@@ -1,6 +1,7 @@
 setwd("D:/VIT Information/Second Year/1st Semester/Data Science/tutorial/HA/")
 shell("cls")
 
+library(ggplot2)
 
 # ----------------------- Preprocessing the Data ----------------------- #
 

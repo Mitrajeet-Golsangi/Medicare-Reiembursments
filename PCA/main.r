@@ -2,6 +2,8 @@ setwd("D:/VIT Information/Second Year/1st Semester/Data Science/tutorial/HA/")
 
 library(ggbiplot)
 
+cat("\n-------------------------- Principle Component Analysis -------------------------\n")
+
 # ----------------------------- Reading the preprocessed data ---------------------- #
 
 df <- read.csv("data/preprocessed.csv")

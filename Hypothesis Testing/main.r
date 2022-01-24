@@ -1,5 +1,7 @@
 setwd("D:/VIT Information/Second Year/1st Semester/Data Science/tutorial/HA/")
 
+cat("\n------------------------------- Hypothesis Testing ------------------------------\n")
+
 # ---------------------------------- Reading the Data --------------------------------- #
 
 df <- read.csv("data/state.csv")
