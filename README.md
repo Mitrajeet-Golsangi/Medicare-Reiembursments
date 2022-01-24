@@ -51,8 +51,8 @@ Each of which indicates the reimbursements in the given medical sector.
 
 ## Contact Info
 
-- [Vivek Ghuge](vivek.ghuge20@vit.edu)
-- [Divija Godse](divija.godse20@vit.edu)
-- [Mitrajeet Golsangi](mitrajeet.golsangi20@vit.edu)
-- [Vishwajeet Haralkar](vishwajeet.haralkar20@vit.edu)
-- [Adityaraj Honraopatil](adityaraj.honraopatil20@vit.edu)
+- [Vivek Ghuge](mailto:vivek.ghuge20@vit.edu)
+- [Divija Godse](mailto:divija.godse20@vit.edu)
+- [Mitrajeet Golsangi](mailto:mitrajeet.golsangi20@vit.edu)
+- [Vishwajeet Haralkar](mailto:vishwajeet.haralkar20@vit.edu)
+- [Adityaraj Honraopatil](mailto:adityaraj.honraopatil20@vit.edu)
